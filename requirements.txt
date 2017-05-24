@@ -1,0 +1,14 @@
+appdirs
+packaging
+six
+Flask>=0.8
+Flask-DebugToolbar>=0.8
+Flask-WTF>=0.8.3
+flask-restful
+flask-httpauth
+pymongo
+itsdangerous
+mongoengine
+flask_mongoengine
+ipython
+pycrypto
